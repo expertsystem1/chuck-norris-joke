@@ -1,16 +1,5 @@
-                                                                                                                                                      
-                                                                                                                                                      
-   ____   ___                          ___             ___      ___                                                  ____          ___                
-  6MMMMb/ `MM                          `MM             `MM\     `M'                          68b                     `MM'          `MM                
- 8P    YM  MM                           MM              MMM\     M                           Y89                      MM            MM                
-6M      Y  MM  __   ___   ___   ____    MM   __         M\MM\    M   _____   ___  __ ___  __ ___   ____               MM   _____    MM   __    ____   
-MM         MM 6MMb  `MM    MM  6MMMMb.  MM   d'         M \MM\   M  6MMMMMb  `MM 6MM `MM 6MM `MM  6MMMMb\             MM  6MMMMMb   MM   d'   6MMMMb  
-MM         MMM9 `Mb  MM    MM 6M'   Mb  MM  d'          M  \MM\  M 6M'   `Mb  MM69 "  MM69 "  MM MM'    `             MM 6M'   `Mb  MM  d'   6M'  `Mb 
-MM         MM'   MM  MM    MM MM    `'  MM d'           M   \MM\ M MM     MM  MM'     MM'     MM YM.                  MM MM     MM  MM d'    MM    MM 
-MM         MM    MM  MM    MM MM        MMdM.           M    \MM\M MM     MM  MM      MM      MM  YMMMMb              MM MM     MM  MMdM.    MMMMMMMM 
-YM      6  MM    MM  MM    MM MM        MMPYM.          M     \MMM MM     MM  MM      MM      MM      `Mb       (8)   MM MM     MM  MMPYM.   MM       
- 8b    d9  MM    MM  YM.   MM YM.   d9  MM  YM.         M      \MM YM.   ,M9  MM      MM      MM L    ,MM       ((   ,M9 YM.   ,M9  MM  YM.  YM    d9 
-  YMMMM9  _MM_  _MM_  YMMM9MM_ YMMMM9  _MM_  YM._      _M_      \M  YMMMMM9  _MM_    _MM_    _MM_MYMMMM9         YMMMM9   YMMMMM9  _MM_  YM._ YMMMM9  
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
+   ___  _              _     _  _                 _     
+  / __|| |_  _  _  __ | |__ | \| | ___  _ _  _ _ (_) ___
+ | (__ | ' \| || |/ _|| / / | .` |/ _ \| '_|| '_|| |(_-<
+  \___||_||_|\_,_|\__||_\_\ |_|\_|\___/|_|  |_|  |_|/__/
+                                                        
